@@ -1,0 +1,62 @@
+[Company Name]
+Leave Policy Document
+
+Effective Date: [DD/MM/YYYY]
+
+1. Introduction
+---------------
+This Leave Policy outlines the guidelines and procedures for availing various types of leave by employees of [Company Name]. It ensures fair and consistent application of leave entitlements across the organization.
+
+2. Types of Leave
+-----------------
+- *Casual Leave (CL)*: [e.g., 8 days per year]
+- *Sick Leave (SL)*: [e.g., 10 days per year]
+- *Earned/Annual Leave (EL/AL)*: [e.g., 15 days per year]
+- *Maternity Leave*: [e.g., 90 days with pay, as per labor laws]
+- *Paternity Leave*: [e.g., 7 days]
+- *Unpaid Leave*: Granted on request and management approval
+- *Compensatory Off*: Subject to prior approval for working on weekends/public holidays
+
+3. Leave Entitlement & Accrual
+------------------------------
+- Leave is calculated on a calendar-year basis.
+- New employees accrue leave on a pro-rata basis.
+- Leave balance resets or carries forward based on type:
+  - Casual/Sick Leave: Not carried forward.
+  - Annual Leave: Up to [X days] may be carried forward.
+
+4. Leave Application Process
+----------------------------
+- Submit leave requests via [Email/HR System] at least [X days] in advance.
+- Include reason, type of leave, and duration.
+- Emergency leave must be informed within 24 hours.
+
+5. Approval Workflow
+--------------------
+- All leaves must be approved by the Reporting Manager.
+- Leave exceeding [X days] may require HR validation and supporting documents.
+
+6. Leave Encashment & Carry Forward
+-----------------------------------
+- Encashment of Annual Leave allowed only at year-end or upon resignation, subject to management approval.
+- No encashment for Sick or Casual leave.
+
+7. Public Holidays
+------------------
+- [Company Name] observes [X number] of public holidays per year as per government notifications.
+
+8. Restrictions & Conditions
+----------------------------
+- Unapproved leave will be treated as Leave Without Pay (LWP).
+- Repeated unplanned absences may lead to disciplinary action.
+- Long leaves may affect appraisal or incentives.
+
+9. Contact
+----------
+For any queries related to this policy, please contact:
+HR Department  
+Email: [hr@company.com]  
+Phone: [+92-XXX-XXXXXXX]
+
+--------------------
+[Company Name] reserves the right to modify this policy at any time with prior notice.

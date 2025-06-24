@@ -1,0 +1,23 @@
+[
+  {
+    "type": "offer_letter",
+    "description": "Formal job offer including designation, start date, and salary",
+    "placeholders": [
+      "employee_name", "designation", "start_date", "salary", "company_name"
+    ]
+  },
+  {
+    "type": "appointment_letter",
+    "description": "Confirmation of appointment with role, joining date, and department",
+    "placeholders": [
+      "employee_name", "designation", "joining_date", "department", "manager_name"
+    ]
+  },
+  {
+    "type": "leave_application",
+    "description": "Formal request for leave including dates and reason",
+    "placeholders": [
+      "employee_name", "leave_start_date", "leave_end_date", "leave_reason"
+    ]
+  }
+]

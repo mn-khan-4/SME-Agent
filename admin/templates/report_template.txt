@@ -1,0 +1,22 @@
+Title: {report_title}
+Author: {author_name}
+Department: {department_name}
+Date: {report_date}
+
+Summary:
+{summary}
+
+Objectives:
+{objectives}
+
+Findings:
+{findings}
+
+Conclusion:
+{conclusion}
+
+Recommendations:
+{recommendations}
+
+Approved by: {approver_name}
+Designation: {approver_designation

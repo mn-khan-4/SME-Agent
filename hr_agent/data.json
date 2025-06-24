@@ -1,0 +1,35 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Ali Khan",
+    "designation": "Sales Executive",
+    "department": "Sales",
+    "email": "ali.khan@smerouter.com",
+    "phone": "+92-300-1234567",
+    "start_date": "2025-07-01",
+    "salary": "PKR 100,000",
+    "leave_balance": 14
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Fatima Tariq",
+    "designation": "HR Manager",
+    "department": "Human Resources",
+    "email": "fatima.tariq@smerouter.com",
+    "phone": "+92-300-2345678",
+    "start_date": "2024-10-15",
+    "salary": "PKR 180,000",
+    "leave_balance": 10
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Usman Javed",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "email": "usman.javed@smerouter.com",
+    "phone": "+92-300-3456789",
+    "start_date": "2023-05-10",
+    "salary": "PKR 150,000",
+    "leave_balance": 7
+  }
+]

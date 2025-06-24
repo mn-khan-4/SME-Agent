@@ -1,0 +1,50 @@
+[Company Letterhead]
+[Company Name]
+[Company Address]
+[Contact Information]
+[Date]
+
+[Candidate Name]
+[Candidate Address]
+
+Subject: Appointment Letter for the Position of [Job Title]
+
+Dear [Candidate Name],
+
+We are pleased to inform you that you have been selected for the position of [Job Title] in the [Department Name] at [Company Name]. Your appointment will be effective from [Joining Date] and you will be reporting to [Reporting Manager/Position].
+
+The terms and conditions of your employment are as follows:
+
+1. Job Title: [Job Title]  
+2. Department: [Department Name]  
+3. Location: [Work Location/Branch Name]  
+4. Compensation: [Salary Details]  
+5. Employment Type: [Full-time/Part-time/Contractual]  
+6. Probation Period: [e.g., 3 months]  
+7. Notice Period: [e.g., 1 month from either party]  
+
+You will be entitled to benefits as per company policy, including but not limited to:  
+- [Health Insurance]  
+- [Paid Time Off]  
+- [Provident Fund]  
+
+Confidentiality:
+----------------
+During the course of your employment, you may be exposed to confidential information. You are expected to maintain the confidentiality of all such information both during and after your tenure with [Company Name].
+
+Please sign and return the duplicate copy of this letter as a token of your acceptance of the terms mentioned above.
+
+We look forward to your association with us and wish you a successful career at [Company Name].
+
+Sincerely,  
+[Authorized Signatory Name]  
+[Designation]  
+[Company Name]
+
+-----------------------------------------
+Acceptance by Employee:
+
+I, [Candidate Name], accept the terms and conditions mentioned above.
+
+Signature: _____________________  
+Date: _____________________

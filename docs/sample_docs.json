@@ -1,0 +1,74 @@
+[
+    {
+        "type": "quote",
+        "client": "Alpha Technologies",
+        "date": "2025-04-12",
+        "content": "Proposal for web development services. Total estimated cost: PKR 250,000.",
+        "tags": [
+            "Alpha",
+            "quote",
+            "2025",
+            "web development"
+        ]
+    },
+    {
+        "type": "nda",
+        "client": "Beta Innovations",
+        "date": "2025-03-20",
+        "content": "Confidentiality agreement regarding AI model consultation project.",
+        "tags": [
+            "Beta",
+            "nda",
+            "2025",
+            "AI"
+        ]
+    },
+    {
+        "type": "invoice",
+        "client": "Gamma Enterprises",
+        "date": "2025-05-05",
+        "content": "Invoice for graphic design services rendered. Amount due: PKR 120,000.",
+        "tags": [
+            "Gamma",
+            "invoice",
+            "2025",
+            "graphic design"
+        ]
+    },
+    {
+        "type": "offer_letter",
+        "client": "SME Router",
+        "date": "2025-06-01",
+        "content": "Offer letter for Senior Developer position with a starting salary of PKR 180,000/month.",
+        "tags": [
+            "HR",
+            "offer",
+            "employee",
+            "2025"
+        ]
+    },
+    {
+        "type": "leave_application",
+        "client": "SME Router",
+        "date": "2025-06-10",
+        "content": "Leave request submitted by employee John Ali for medical leave (June 15–20, 2025).",
+        "tags": [
+            "HR",
+            "leave",
+            "employee",
+            "2025"
+        ]
+    },
+    {
+        "type": "appointment_letter",
+        "client": "SME Router",
+        "date": "2025-06-15",
+        "content": "Appointment letter for employee Jane Tariq with a joining date of June 20, 2025.",
+        "tags": [
+            "HR",
+            "appointment",
+            "employee",
+            "2025"
+        ]
+    }
+]

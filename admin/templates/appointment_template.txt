@@ -1,0 +1,28 @@
+
+Dear {candidate_name},
+
+We are pleased to inform you that you have been selected for the position of {position_title} in our organization, {company_name}, effective from {joining_date}.
+
+The terms and conditions of your employment are as follows:
+
+Position: {position_title}
+
+Department: {department_name}
+
+Reporting Manager: {reporting_manager}
+
+Monthly Salary: {salary_amount}
+
+Location: {work_location}
+
+Probation Period: {probation_period}
+
+You are expected to report to our office at {reporting_time} on {joining_date} with the necessary documents.
+
+We welcome you to the {company_name} family and look forward to a mutually beneficial association.
+
+Sincerely,
+{hr_name}
+Human Resources Department
+{company_name}
+

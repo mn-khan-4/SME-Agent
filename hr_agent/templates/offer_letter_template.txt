@@ -1,0 +1,51 @@
+[Company Letterhead]
+[Company Name]
+[Company Address]
+[Date]
+
+[Candidate Name]
+[Candidate Address]
+
+Subject: Offer of Employment
+
+Dear [Candidate Name],
+
+We are pleased to offer you the position of [Position Title] at [Company Name], reporting to [Reporting Manager]. Your start date will be [Start Date].
+
+Position Details:
+-----------------
+- Job Title: [Position Title]
+- Department: [Department]
+- Reporting To: [Reporting Manager]
+- Employment Type: [Full-time / Part-time / Contract]
+
+Compensation and Benefits:
+--------------------------
+- Annual Salary: [Salary] (payable monthly)
+- Benefits: [Health Insurance, Paid Time Off, etc.]
+- Work Hours: [e.g., 9 AM to 5 PM, Monday to Friday]
+
+Terms and Conditions:
+---------------------
+Your employment with [Company Name] is subject to the successful completion of all required documentation, background checks, and compliance with company policies.
+
+Please review and sign this offer letter as an acknowledgment of your acceptance.
+
+Acceptance:
+-----------
+I, [Candidate Name], accept the terms and conditions of this offer.
+
+Signature (Candidate): ______________________
+Date: _______________
+
+Signature (Employer): _______________________
+Name: [HR/Manager Name]
+Title: [HR/Manager Title]
+Date: _______________
+
+We look forward to welcoming you to [Company Name].
+
+Sincerely,  
+[HR Name]  
+[HR Title]  
+[Company Name]

@@ -1,0 +1,23 @@
+{
+  "admin_name": "Ayesha Khan",
+  "admin_email": "admin@smeportal.com",
+  "admin_phone": "+92-300-1122334",
+  "company_name": "SME Portal Solutions",
+  "department": "Administration",
+  "report_date": "2025-06-20",
+  "meeting_date": "2025-06-22",
+  "meeting_time": "3:00 PM",
+  "meeting_location": "Conference Room B",
+  "recipient_name": "Mr. Usman",
+  "recipient_department": "IT Department",
+  "appointment_with": "Ms. Hira (Finance)",
+  "appointment_time": "11:00 AM",
+  "appointment_date": "2025-06-21",
+  "memo_subject": "Office Maintenance",
+  "memo_body": "Please be informed that maintenance work will be carried out over the weekend. Kindly secure all equipment.",
+  "report_subject": "Monthly Attendance Summary",
+  "report_body": "The attendance report shows an improvement in employee punctuality this month with a 92% average attendance rate.",
+  "notice_subject": "Office Closure on Eid",
+  "notice_body": "Our office will remain closed from 27th June to 1st July for Eid holidays.",
+  "signature": "Regards,\nAdmin Department\nSME Portal Solutions"
+}

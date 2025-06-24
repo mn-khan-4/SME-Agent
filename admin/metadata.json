@@ -1,0 +1,37 @@
+[
+{
+"source": "template",
+"filename": "memo_template.txt",
+"type": "memo",
+"department": "Administration",
+"intent": "memo"
+},
+{
+"source": "template",
+"filename": "meeting_minutes_template.txt",
+"type": "meeting_minutes",
+"department": "Administration",
+"intent": "meeting minutes"
+},
+{
+"source": "template",
+"filename": "appointment_template.txt",
+"type": "appointment",
+"department": "Administration",
+"intent": "appointment"
+},
+{
+"source": "template",
+"filename": "report_template.txt",
+"type": "report",
+"department": "Administration",
+"intent": "report"
+},
+{
+"source": "template",
+"filename": "notice_template.txt",
+"type": "notice",
+"department": "Administration",
+"intent": "notice"
+}
+]
